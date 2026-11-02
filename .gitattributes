@@ -1,0 +1,6 @@
+* text=auto
+*.asc text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.png binary
+*.xlsx binary
